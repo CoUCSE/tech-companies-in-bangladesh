@@ -390,8 +390,8 @@ https://github.com/ChumbokIT[Github]
 |https://jouleslabs.com/[Website]
 
 |Kaz Software
-|28/1 Eskaton Garden, Dhaka, Bangladesh
-|.Net, Java, PHP, AngularJS, React
+|35/5, Shantinagar, Dhaka-1217, Bangladesh
+|.Net, Java, PHP, Node, Andoid, Flutter, iOS, AngularJS, React, AWS
 |http://kaz.com.bd/[Website]
 
 |Kona Software Lab
